@@ -1,1 +1,1 @@
-The write-up for our paper On the Realizable Types of Numerical Semigroups can be viewed under semigrouptypes.pdf. The code used to support our findings can be found on the GitHub website, the link to which is provided.
+The write-up for our paper On the Realizable Types of Numerical Semigroups can be viewed under semigrouptypes.pdf. The code used to support our findings can be found on the GitHub website; the link is provided in the About section.
