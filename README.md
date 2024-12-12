@@ -1,1 +1,1 @@
-Download raw pdf file "semigrouptypes.pdf" to view the research paper. Click GitHub website link to view the code used to support research findings.
+The write-up for our paper On the Realizable Types of Numerical Semigroups can be viewed under semigrouptypes.pdf. The code used to support our findings can be found on the GitHub website, the link to which is provided.
